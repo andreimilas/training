@@ -1,0 +1,2 @@
+# training
+Various programming exercises
