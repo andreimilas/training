@@ -3,4 +3,4 @@
 Andrei Milas
 
 ## Description
-Various programming exercises
+Various programming exercises written in Go
